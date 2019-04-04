@@ -1,0 +1,7 @@
+username: snakePI
+password: wang326684
+confirmPass: wang326684
+fId: snake
+zId: laow
+phone: 13570416572
+photo: snakePI
